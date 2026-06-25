@@ -1,3 +1,16 @@
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/AI-Gemini-blue?style=for-the-badge"/>
+
+</p>
 <h1 align="center">Hi 👋, I'm Charmi Gubbala</h1>
 <h3 align="center">AI & Full Stack Developer | Problem Solver | B.Tech CSE Student</h3>
 
@@ -117,8 +130,7 @@ Solved **650+ DSA Problems**
 # 📫 Connect With Me
 
 - 📧 Email: 23A91A6181@aec.edu.in
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 🌐 Portfolio: https://YOUR-PORTFOLIO
+- 💼 LinkedIn: https://www.linkedin.com/in/charmi-gubbala-3bb927290/
 
 ---
 
