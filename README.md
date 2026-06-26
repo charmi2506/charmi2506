@@ -199,16 +199,15 @@ Collaborated on the development of modern web applications by contributing to fr
 
 ---
 
-
 # 📈 Contribution Graph
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charmi2506&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=charmi2506&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
-
 
 # 🏅 Achievements
 
@@ -255,37 +254,43 @@ Open To:
   - AI / ML Opportunities
   - Full Stack Development Roles
 ```
----
 
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:charmii2506@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+I'm always open to collaborating on exciting projects, discussing new technologies, and connecting with fellow developers.
+</p>
+
+<br>
+
+<a href="mailto:23A91A6181@aec.edu.in">
+<img src="https://img.shields.io/badge/Email-23A91A6181%40aec.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/charmi-gubbala-3bb927290/">
 <img src="https://img.shields.io/badge/LinkedIn-Charmi_Gubbala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/charmi2506">
 <img src="https://img.shields.io/badge/GitHub-charmi2506-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+*"Building intelligent software that solves real-world problems."*
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1976D2,100:0D47A1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=120&section=footer"/>
 
 </div>
-
-
