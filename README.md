@@ -306,18 +306,6 @@ Open To:
   - AI / ML Opportunities
   - Full Stack Development Roles
 ```
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-> *"Technology has the greatest impact when it solves real-world problems. I enjoy building intelligent, scalable, and user-centric applications that combine modern software engineering with the power of Artificial Intelligence."*
-
-</div>
-
----
 ---
 
 # 🤝 Let's Connect
@@ -392,3 +380,5 @@ If you like my work, consider giving a ⭐ to my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:1976D2,100:0D47A1&height=120&section=footer"/>
 
 </div>
+
+
