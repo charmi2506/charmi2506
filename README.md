@@ -213,32 +213,19 @@ Collaborated on the development of modern web applications by contributing to fr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charmi2506&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=charmi2506&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charmi2506&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=charmi2506&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmi2506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmi2506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=charmi2506&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -249,17 +236,6 @@ Collaborated on the development of modern web applications by contributing to fr
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/charmi2506/charmi2506/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** The snake animation will work only after we configure a GitHub Action in Part 4.
-
----
 
 # 🏅 Achievements
 
