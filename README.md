@@ -20,7 +20,11 @@
 <img src="https://img.shields.io/badge/GitHub-charmi2506-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7B1FA2?style=for-the-badge"/>
+<p align="center">
+  <a href="https://new-portfolio-rouge-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Now-06B6D4?style=for-the-badge" alt="Live Portfolio"/>
+  </a>
+</p>
 
 </p>
 
