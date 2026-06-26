@@ -167,3 +167,215 @@ Currently, I'm focused on learning distributed systems, advanced backend develop
 ### ⭐ *"Building intelligent software that solves real-world problems."*
 
 </div>
+---
+
+# 🚀 Featured Projects
+
+<details open>
+<summary><h2>🛡️ PolicyGuard AI – AI-Powered Policy Intelligence Platform</h2></summary>
+
+<br>
+
+> An AI-powered platform that analyzes **Privacy Policies**, **Terms & Conditions**, and other legal documents to help users understand potential risks and important clauses.
+
+### ✨ Key Features
+
+- 📄 Upload and analyze Privacy Policies & Legal Documents
+- 🤖 AI-powered Risk Detection
+- 📝 Intelligent Document Summarization
+- ⚖️ Compliance & Privacy Risk Scoring
+- 🔒 JWT Authentication
+- ☁️ MongoDB Atlas Integration
+- 🚀 Secure REST APIs
+- 🐳 Docker Support
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📸 Screenshots
+
+> *(Coming Soon)*
+
+```
+assets/policyguard-home.png
+
+assets/policyguard-dashboard.png
+
+assets/policyguard-analysis.png
+```
+
+---
+
+### 🌐 Links
+
+| Resource | Link |
+|----------|------|
+| 🔗 Repository | Coming Soon |
+| 🌍 Live Demo | Coming Soon |
+
+</details>
+
+---
+
+<details>
+<summary><h2>📦 Event-Driven Order Processing System</h2></summary>
+
+<br>
+
+> A distributed event-driven microservices application built using **Spring Boot** and **Apache Kafka** that demonstrates reliable event processing using modern backend architecture.
+
+### ✨ Features
+
+- ⚡ Apache Kafka Messaging
+- 🔄 Event-Driven Architecture
+- 📬 Outbox Pattern
+- 🔁 Retry Mechanism
+- 🚨 Dead Letter Queue (DLQ)
+- 🧾 Idempotent Consumers
+- 🔄 Saga Compensation Workflow
+- 🐳 Docker Compose Deployment
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,mysql,docker"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+</p>
+
+---
+
+### 📸 Screenshots
+
+> *(Coming Soon)*
+
+```
+assets/kafka-architecture.png
+
+assets/order-flow.png
+```
+
+---
+
+### 🌐 Links
+
+| Resource | Link |
+|----------|------|
+| 🔗 Repository | Coming Soon |
+
+</details>
+
+---
+
+<details>
+<summary><h2>🧠 Text Summarizer – AI Chrome Extension</h2></summary>
+
+<br>
+
+> A Chrome Extension built with **Manifest V3** that summarizes web pages using Generative AI, making long-form content easier to understand.
+
+### ✨ Features
+
+- 🌐 Summarize any webpage instantly
+- 🤖 OpenAI API Integration
+- 🧩 Chrome Extension (Manifest V3)
+- ⚡ Background Scripts
+- 📩 Message Passing Architecture
+- 🎨 Responsive Popup Interface
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</p>
+
+---
+
+### 📸 Screenshots
+
+> *(Coming Soon)*
+
+```
+assets/extension-popup.png
+
+assets/summary-output.png
+```
+
+---
+
+### 🌐 Links
+
+| Resource | Link |
+|----------|------|
+| 🔗 Repository | Coming Soon |
+
+</details>
+
+---
+
+# 💼 Experience
+
+## Full Stack Development Intern
+
+**Technical Hub Pvt. Ltd.**  
+📅 **May 2025 – June 2025**
+
+During my internship, I worked on responsive web applications while gaining practical experience in frontend development, debugging, testing, and improving application usability.
+
+### Responsibilities
+
+- 🎨 Developed responsive UI layouts using HTML5 & CSS3
+- 📱 Built responsive interfaces using Media Queries
+- 🛠 Debugged and tested web applications
+- 🚀 Improved application usability and user experience
+
+---
+
+# 🎓 Education
+
+| Qualification | Institution | Score |
+|--------------|-------------|-------:|
+| 🎓 B.Tech – Artificial Intelligence & Machine Learning | Aditya Engineering College | **CGPA 8.85** |
+| 📘 Intermediate | Sri Chaitanya Junior College | **90.2%** |
+| 📗 SSC | Surya E.M. High School | **100%** |
+
+---
