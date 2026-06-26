@@ -180,6 +180,7 @@ Collaborated on the development of modern web applications by contributing to fr
 | 📗 SSC | Surya E.M. High School | **100%** |
 
 ---
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -195,7 +196,9 @@ Collaborated on the development of modern web applications by contributing to fr
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmi2506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
+
 ---
+
 
 # 📈 Contribution Graph
 <div align="center">
@@ -272,6 +275,7 @@ Open To:
 
 </div>
 ---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
