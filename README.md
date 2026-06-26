@@ -113,20 +113,6 @@ Summarizes webpages instantly using AI.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=charmi2506&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charmi2506&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmi2506&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 - 📧 Email: 23A91A6181@aec.edu.in
