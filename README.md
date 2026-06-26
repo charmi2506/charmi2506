@@ -142,33 +142,6 @@ Currently, I'm focused on learning distributed systems, advanced backend develop
 
 ---
 
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:charmii2506@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/charmi-gubbala-3bb927290/">
-<img src="https://img.shields.io/badge/LinkedIn-Charmi_Gubbala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/charmi2506">
-<img src="https://img.shields.io/badge/GitHub-charmi2506-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ *"Building intelligent software that solves real-world problems."*
-
-</div>
----
-
 # 🚀 Featured Projects
 
 | Project | Tech Stack |
@@ -211,8 +184,6 @@ Collaborated on the development of modern web applications by contributing to fr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charmi2506&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charmi2506&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -225,8 +196,8 @@ Collaborated on the development of modern web applications by contributing to fr
 
 </div>
 ---
-# 📈 Contribution Activity
 
+# 📈 Contribution Graph
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=charmi2506&theme=tokyo-night&hide_border=true&area=true"/>
@@ -281,7 +252,26 @@ Open To:
   - AI / ML Opportunities
   - Full Stack Development Roles
 ```
+---
 
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:charmii2506@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/charmi-gubbala-3bb927290/">
+<img src="https://img.shields.io/badge/LinkedIn-Charmi_Gubbala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/charmi2506">
+<img src="https://img.shields.io/badge/GitHub-charmi2506-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+---
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
