@@ -207,3 +207,114 @@ Collaborated on the development of modern web applications by contributing to fr
 | 📗 SSC | Surya E.M. High School | **100%** |
 
 ---
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=charmi2506&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=charmi2506&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmi2506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=charmi2506&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charmi2506&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/charmi2506/charmi2506/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** The snake animation will work only after we configure a GitHub Action in Part 4.
+
+---
+
+# 🏅 Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 💻 Competitive Programming | Solved **650+** coding problems across LeetCode, GeeksforGeeks & CodeChef |
+| 🤖 AI Development | Built multiple AI-powered applications using OpenAI & Gemini APIs |
+| 🌐 Full Stack Development | Developed scalable web applications using MERN Stack |
+| ⚡ Backend Engineering | Experience with Spring Boot, Apache Kafka & REST APIs |
+| 🏅 AWS | AWS Certified AI Practitioner |
+| 🥇 Oracle | Oracle AI Foundations Associate |
+| 🍃 MongoDB | MongoDB Certified Associate Developer |
+| 📚 NPTEL | DBMS, Artificial Intelligence, Deep Learning & IoT |
+
+</div>
+
+---
+
+# 🚀 What I'm Currently Learning
+
+```yaml
+Current Focus:
+
+Building:
+  - AI-powered Applications
+  - Distributed Backend Systems
+  - Full Stack Web Applications
+
+Learning:
+  - System Design
+  - Machine Learning
+  - Cloud Computing (AWS)
+  - Advanced Backend Development
+
+Exploring:
+  - Large Language Models (LLMs)
+  - Apache Kafka
+  - Docker & Microservices
+
+Open To:
+  - Software Engineering Internships
+  - AI / ML Opportunities
+  - Full Stack Development Roles
+```
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+> *"Technology has the greatest impact when it solves real-world problems. I enjoy building intelligent, scalable, and user-centric applications that combine modern software engineering with the power of Artificial Intelligence."*
+
+</div>
+
+---
