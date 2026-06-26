@@ -1,87 +1,116 @@
 <div align="center">
 
-# Hi 👋, I'm Charmi Gubbala
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=180&section=header&text=Charmi%20Gubbala&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-### Artificial Intelligence & Machine Learning Student
-### Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00C9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer;Building+Intelligent+Software;650%2B+DSA+Problems+Solved;Always+Learning+Something+New"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software.;Artificial+Intelligence+%26+Machine+Learning.;Full+Stack+Developer.;650%2B+DSA+Problems+Solved.;Always+Learning+Something+New." />
+<br>
+
+<p>
+
+<a href="https://www.linkedin.com/in/charmi-gubbala-3bb927290/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:charmii2506@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-charmii2506@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/charmi2506">
+<img src="https://img.shields.io/badge/GitHub-charmi2506-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7B1FA2?style=for-the-badge"/>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=charmi2506&label=Profile+Views&color=1976D2&style=flat-square"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 👋 About Me
 
-### 🚀 Building intelligent software that solves real-world problems.
+I'm **Charmi Gubbala**, an **Artificial Intelligence & Machine Learning** student passionate about building scalable software and AI-powered applications.
 
-</div>
+I enjoy transforming ideas into practical solutions through **Full Stack Development**, **Backend Engineering**, and **Generative AI**.
 
----
+I have solved **650+ Data Structures & Algorithms problems**, strengthening my analytical thinking and software engineering fundamentals while building projects that solve real-world problems.
 
-# 👨‍💻 About Me
-
-I'm **Charmi Gubbala**, a **Artificial Intelligence & Machine Learning Student** student with a strong passion for Full Stack Development**.
-
-I enjoy building scalable web applications and AI-powered solutions that solve practical problems.
-
-Over time, I have solved **500+ Data Structures & Algorithms problems** across multiple coding platforms, strengthening my problem-solving and analytical skills.
-
-Currently, I am focused on building projects that combine **AI**, **Backend Development**, and **Modern Web Technologies**.
+Currently, I'm focused on learning distributed systems, advanced backend development, and AI-powered applications.
 
 ---
 
-# 🏆 Quick Highlights
+# 🚀 Quick Highlights
 
-- 🎓 B.Tech AI & Machine Learning student
-- 📊 CGPA **8.85**
-- 💻 Solved **500+ DSA Problems**
+- 🎓 B.Tech – Artificial Intelligence & Machine Learning
+- 🎯 CGPA: **8.85**
+- 💻 Solved **650+ DSA Problems**
 - 🤖 AI & Machine Learning Enthusiast
 - 🌐 Full Stack Developer
+- ⚙️ Backend Engineering
 - 🚀 Building AI-powered Applications
-- 📍 Andhra Pradesh, India
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## 💻 Languages
+## Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,sql"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+## AI / Cloud / Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🎨 Frontend
+# 🏆 Certifications
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
----
-
-## 🗄 Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
----
-
-## 🧰 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+- 🥇 AWS Certified AI Practitioner
+- 🥇 GitHub Foundations
+- 🥇 Oracle AI Foundations Associate
+- 🥇 MongoDB Certified Associate Developer
+- 🥇 NPTEL – DBMS
+- 🥇 NPTEL – Fundamentals of AI
+- 🥇 NPTEL – Deep Learning
+- 🥇 Cisco – C, C++, Python
+- 🥇 HackerRank – SQL Basics
 
 ---
 
@@ -89,21 +118,25 @@ Currently, I am focused on building projects that combine **AI**, **Backend Deve
 
 <div align="center">
 
-<a href="https://leetcode.com/u/charmi_Gubbala/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-650%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/charmi_Gubbala/">
+<img src="https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 &nbsp;
 
-<a href="https://www.geeksforgeeks.org/profile/charmi0j2a" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/profile/charmi0j2a">
+<img src="https://img.shields.io/badge/GeeksforGeeks-200%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 &nbsp;
 
-<a href="https://www.codechef.com/users/charmii_007" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.codechef.com/users/charmii_007">
+<img src="https://img.shields.io/badge/CodeChef-150%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/HackerRank-20%2B_Badges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
 </div>
 
@@ -113,28 +146,24 @@ Currently, I am focused on building projects that combine **AI**, **Backend Deve
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/charmi-gubbala-3bb927290/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Charmi_Gubbala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:charmii2506@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="mailto:23A91A6181@aec.edu.in">
-<img src="https://img.shields.io/badge/Gmail-23A91A6181%40aec.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/charmi-gubbala-3bb927290/">
+<img src="https://img.shields.io/badge/LinkedIn-Charmi_Gubbala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="https://github.com/charmi2506" target="_blank">
+<a href="https://github.com/charmi2506">
 <img src="https://img.shields.io/badge/GitHub-charmi2506-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-blueviolet?style=for-the-badge"/>
 
 </div>
 
 ---
 
-> *"Building intelligent software, one project at a time."*
+<div align="center">
+
+### ⭐ *"Building intelligent software that solves real-world problems."*
+
+</div>
