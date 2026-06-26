@@ -2,8 +2,7 @@
 
 # Hi 👋, I'm Charmi Gubbala
 
-### Computer Science Engineering Student
-### Artificial Intelligence & Machine Learning Enthusiast
+### Artificial Intelligence & Machine Learning Student
 ### Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software.;Artificial+Intelligence+%26+Machine+Learning.;Full+Stack+Developer.;650%2B+DSA+Problems+Solved.;Always+Learning+Something+New." />
@@ -22,11 +21,11 @@
 
 # 👨‍💻 About Me
 
-I'm **Charmi Gubbala**, a **Computer Science Engineering** student with a strong passion for **Artificial Intelligence, Machine Learning, and Full Stack Development**.
+I'm **Charmi Gubbala**, a **Artificial Intelligence & Machine Learning Student** student with a strong passion for Full Stack Development**.
 
 I enjoy building scalable web applications and AI-powered solutions that solve practical problems.
 
-Over time, I have solved **650+ Data Structures & Algorithms problems** across multiple coding platforms, strengthening my problem-solving and analytical skills.
+Over time, I have solved **500+ Data Structures & Algorithms problems** across multiple coding platforms, strengthening my problem-solving and analytical skills.
 
 Currently, I am focused on building projects that combine **AI**, **Backend Development**, and **Modern Web Technologies**.
 
@@ -34,9 +33,9 @@ Currently, I am focused on building projects that combine **AI**, **Backend Deve
 
 # 🏆 Quick Highlights
 
-- 🎓 B.Tech Computer Science Engineering
+- 🎓 B.Tech AI & Machine Learning student
 - 📊 CGPA **8.85**
-- 💻 Solved **650+ DSA Problems**
+- 💻 Solved **500+ DSA Problems**
 - 🤖 AI & Machine Learning Enthusiast
 - 🌐 Full Stack Developer
 - 🚀 Building AI-powered Applications
