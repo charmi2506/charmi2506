@@ -103,13 +103,13 @@ Summarizes webpages instantly using AI.
 
 ---
 
-# 📈 Coding Profiles
+## 📈 Coding Profiles
 
-- 💻 LeetCode
-- 🟢 GeeksforGeeks
-- 🔵 CodeChef
+- 🔸 **LeetCode:** https://leetcode.com/u/charmi_Gubbala/
+- 🟢 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/charmi0j2a
+- 🔵 **CodeChef:** https://www.codechef.com/users/charmii_007
 
-Solved **650+ DSA Problems**
+**Solved 650+ DSA Problems**
 
 ---
 
